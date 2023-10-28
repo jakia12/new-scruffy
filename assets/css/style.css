@@ -2549,7 +2549,7 @@ ol {
 
 .roadmap__item {
   padding: 30px 20px;
-  background: #cba558;
+  background: #eb9645;
   border-radius: 5px;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -2573,7 +2573,7 @@ ol {
 
 .speciality__item {
   padding: 30px 20px;
-  background-color: #cba558;
+  background-color: #eb9645;
   border-radius: 5px;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -2625,7 +2625,7 @@ ol {
   transition: all 0.3s ease;
   border-radius: 4px;
   text-align: center;
-  background-color: #cba558;
+  background-color: #eb9645;
 }
 .team__item:hover .team__inner::after {
   opacity: 1;
@@ -2711,7 +2711,7 @@ ol {
 }
 
 .accordion__item {
-  background-color: #cba558;
+  background-color: #eb9645;
 }
 .accordion__button {
   font-size: calc(1.275rem + 0.2571428571vw);
@@ -2806,7 +2806,7 @@ ol {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
   padding: 0;
-  background-color: #cba558;
+  background-color: #eb9645;
 }
 .blog__item--style-2 .blog__item-thumb img {
   -webkit-transition: all 0.3s ease;
@@ -3443,7 +3443,7 @@ ol {
   height: 40px;
   line-height: 40px;
   border-radius: 5px;
-  background-color: #cba558;
+  background-color: #eb9645;
   color: #191919;
 }
 
@@ -3593,7 +3593,7 @@ ol {
   }
 }
 .default-btn {
-  background-image: linear-gradient(180deg, #cba558 0%, #cba558 100%);
+  background-image: linear-gradient(180deg, #eb9645 0%, #eb9645 100%);
 }
 
 .default-btn:hover {
